@@ -62,7 +62,3 @@ test_waypoints = waypoint_generator(strip_length, search_height, strip_width, la
 
 for i, wp in enumerate(test_waypoints):
     print(f"Waypoint {i}: lat={wp[0]:.6f}, lon={wp[1]:.6f}")
-
-    
-
-

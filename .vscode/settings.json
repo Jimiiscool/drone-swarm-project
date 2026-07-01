@@ -1,3 +1,4 @@
 {
-    "editor.fontFamily": "'Consolas, Courier New"
+    "editor.fontFamily": "'Consolas, Courier New",
+    "cmake.sourceDirectory": "/home/jimi/Desktop/github_repos/drone-swarm-project/ros2_ws/src/swarm_msgs"
 }

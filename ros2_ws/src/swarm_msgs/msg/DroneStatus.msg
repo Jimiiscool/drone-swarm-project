@@ -1,0 +1,10 @@
+int32 drone_id
+float64 lat
+float64 lon
+float64 alt
+float32 battery_left
+float32 volt_battery
+string mission_state
+int32 current_waypoint
+int32 total_waypoints
+float64 timestamp
